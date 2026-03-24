@@ -42,6 +42,45 @@ Transactions on Image Processing(TIP), 2026
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM2025</div><img src='images/mm25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Multi-round Mutual Emotion-Cause Pair Extraction for Emotion-Attributed Video Captioning](https://dl.acm.org/doi/pdf/10.1145/3746027.3755048)
+
+**Cheng Ye**; Weidong Chen; Peipei Song; Xinyan Liu; Lei Zhang; Zhendong Mao
+
+Proceedings of the 33rd ACM International Conference on Multimedia(ACM MM), 2025
+
+[**Project Page**](https://github.com/kyrieye/MM-ECPE) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2025</div><img src='images/tip25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Improving Video Summarization by Exploring the Coherence between Corresponding Captions](https://ieeexplore.ieee.org/abstract/document/11130654/)
+
+**Cheng Ye**; Weidong Chen; Bo Hu; Lei Zhang; Yongdong Zhang; Zhendong Mao
+
+Transactions on Image Processing(TIP), 2025
+
+[**Project Page**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ylZ6JBAAAAAJ&citation_for_view=ylZ6JBAAAAAJ:IjCSPb-OGe4C) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM2024</div><img src='images/mm24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Dual-path Collaborative Generation Network for Emotional Video Captioning](https://dl.acm.org/doi/pdf/10.1145/3746027.3755048)
+
+**Cheng Ye**; Weidong Chen; Jingyu Li; Lei Zhang; Zhendong Mao
+
+Proceedings of the 33rd ACM International Conference on Multimedia(ACM MM), 2024
+
+[**Project Page**](https://github.com/kyrieye/DCGN) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
 
 # 🎖 Honors and Awards
 - *2021.10* National Scholarship for Master Students, 2025.
