@@ -75,7 +75,7 @@ Transactions on Image Processing(TIP), 2025
 
 **Cheng Ye**; Weidong Chen; Jingyu Li; Lei Zhang; Zhendong Mao
 
-Proceedings of the 33rd ACM International Conference on Multimedia(ACM MM), 2024
+Proceedings of the 32nd ACM International Conference on Multimedia(ACM MM), 2024
 
 [**Project Page**](https://github.com/kyrieye/DCGN) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
@@ -83,7 +83,7 @@ Proceedings of the 33rd ACM International Conference on Multimedia(ACM MM), 2024
 
 
 # 🎖 Honors and Awards
-- *2021.10* National Scholarship for Master Students, 2025.
+- *2025.10* National Scholarship for Master Students, 2025.
 - *2024.07* USTC Excellent Graduation Project, 2024.
 
 # 📖 Educations
