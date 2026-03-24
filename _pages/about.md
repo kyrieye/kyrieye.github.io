@@ -93,5 +93,5 @@ Proceedings of the 32nd ACM International Conference on Multimedia(ACM MM), 2024
 # 💬 Invited Talks
 - *2025.08*, Paper sharing for Hefei-CSIG.
 
-% # 💻 Internships
-% - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Internships
+
