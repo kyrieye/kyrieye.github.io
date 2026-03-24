@@ -29,7 +29,7 @@ My research mainly focuses on **Multimodal Emotion Analysis** and **Multimodal L
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2026</div><img src='images/tip26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2026</div><img src='images/tip26.png' alt="tip26" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Subjective-objective Emotion Correlated Generation Network for Subjective Video Captioning](https://ieeexplore.ieee.org/document/11339362)
@@ -42,7 +42,7 @@ Transactions on Image Processing(TIP), 2026
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM2025</div><img src='images/mm25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM2025</div><img src='images/mm25.png' alt="mm25" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multi-round Mutual Emotion-Cause Pair Extraction for Emotion-Attributed Video Captioning](https://dl.acm.org/doi/pdf/10.1145/3746027.3755048)
@@ -55,7 +55,7 @@ Proceedings of the 33rd ACM International Conference on Multimedia(ACM MM), 2025
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2025</div><img src='images/tip25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2025</div><img src='images/tip25.png' alt="tip25" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Improving Video Summarization by Exploring the Coherence between Corresponding Captions](https://ieeexplore.ieee.org/abstract/document/11130654/)
@@ -68,7 +68,7 @@ Transactions on Image Processing(TIP), 2025
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM2024</div><img src='images/mm24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM2024</div><img src='images/mm24.png' alt="mm24" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Dual-path Collaborative Generation Network for Emotional Video Captioning](https://dl.acm.org/doi/pdf/10.1145/3746027.3755048)
