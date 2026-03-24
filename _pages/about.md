@@ -38,7 +38,7 @@ Weidong Chen; **Cheng Ye**; Peipei Song; Lei Zhang; Yongdong Zhang; Zhendong Mao
 
 Transactions on Image Processing(TIP), 2026
 
-[**Project Page**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ylZ6JBAAAAAJ&citation_for_view=ylZ6JBAAAAAJ:eQOLeE2rZwMC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project Page**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ylZ6JBAAAAAJ&citation_for_view=ylZ6JBAAAAAJ:eQOLeE2rZwMC)
 </div>
 </div>
 
@@ -51,7 +51,7 @@ Transactions on Image Processing(TIP), 2026
 
 Proceedings of the 33rd ACM International Conference on Multimedia(ACM MM), 2025
 
-[**Project Page**](https://github.com/kyrieye/MM-ECPE) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project Page**](https://github.com/kyrieye/MM-ECPE) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'>
 </div>
 </div>
 
@@ -64,7 +64,7 @@ Proceedings of the 33rd ACM International Conference on Multimedia(ACM MM), 2025
 
 Transactions on Image Processing(TIP), 2025
 
-[**Project Page**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ylZ6JBAAAAAJ&citation_for_view=ylZ6JBAAAAAJ:IjCSPb-OGe4C) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project Page**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ylZ6JBAAAAAJ&citation_for_view=ylZ6JBAAAAAJ:IjCSPb-OGe4C)
 </div>
 </div>
 
@@ -77,9 +77,10 @@ Transactions on Image Processing(TIP), 2025
 
 Proceedings of the 32nd ACM International Conference on Multimedia(ACM MM), 2024
 
-[**Project Page**](https://github.com/kyrieye/DCGN) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project Page**](https://github.com/kyrieye/DCGN)
 </div>
 </div>
+
 # 🎖 Honors and Awards
 - *2025.10* National Scholarship for Master Students, 2025.
 - *2024.07* USTC Excellent Graduation Project, 2024.
