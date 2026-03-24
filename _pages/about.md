@@ -29,7 +29,7 @@ My research mainly focuses on **Multimodal Emotion Analysis** and **Multimodal L
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2026</div><img src='images/tip26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Subjective-objective Emotion Correlated Generation Network for Subjective Video Captioning](https://ieeexplore.ieee.org/document/11339362)
@@ -38,8 +38,7 @@ Weidong Chen; **Cheng Ye**; Peipei Song; Lei Zhang; Yongdong Zhang; Zhendong Mao
 
 Transactions on Image Processing(TIP), 2026
 
-[**Project Page**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project Page**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ylZ6JBAAAAAJ&citation_for_view=ylZ6JBAAAAAJ:eQOLeE2rZwMC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 
