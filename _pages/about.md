@@ -28,6 +28,18 @@ My research mainly focuses on **Multimodal Emotion Analysis** and **Multimodal L
 - *2024.07*: &nbsp;🎉🎉 DCGN was accepted by ACM Multimedia 2024 and selected by **Oral representation**(174/4385,3.97%). Good kickoff for research career!
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/mm26.png' alt="agent" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Multi-Agent Framework with Structured Reasoning and Reflective Refinement for Multimodal Empathetic Response Generation](https://arxiv.org/abs/2604.18988)
+
+Liping Wang; **Cheng Ye**$^{*}$; Weidong Chen; Peipei Song; Bo Hu; Zhendong Mao
+
+Under Review, 2026
+
+[**Project Page**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ylZ6JBAAAAAJ&citation_for_view=ylZ6JBAAAAAJ:eQOLeE2rZwMC)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2026</div><img src='images/tip26.png' alt="tip26" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
