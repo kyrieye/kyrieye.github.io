@@ -28,6 +28,7 @@ My research mainly focuses on **Multimodal Emotion Analysis** and **Multimodal L
 - *2024.07*: &nbsp;🎉🎉 DCGN was accepted by ACM Multimedia 2024 and selected by **Oral representation**(174/4385,3.97%). Good kickoff for research career!
 
 # 📝 Publications 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/mm26.png' alt="agent" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -37,7 +38,20 @@ Liping Wang; **Cheng Ye**$^{*}$; Weidong Chen; Peipei Song; Bo Hu; Zhendong Mao
 
 Under Review, 2026
 
-[**Project Page**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ylZ6JBAAAAAJ&citation_for_view=ylZ6JBAAAAAJ:eQOLeE2rZwMC)
+[**Project Page**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ylZ6JBAAAAAJ&citation_for_view=ylZ6JBAAAAAJ:ufrVoPGSRksC)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/tpami26.png' alt="facenet" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[FACE-net: Factual Calibration and Emotion Augmentation for Retrieval-enhanced Emotional Video Captioning](https://arxiv.org/abs/2603.17455)
+
+Weidong Chen; **Cheng Ye**; Zhendong Mao; Peipei Song; Xinyan Liu; Lei Zhang; Xiaojun Chang; Yongdong Zhang
+
+Under Review, 2026
+
+[**Project Page**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ylZ6JBAAAAAJ&citation_for_view=ylZ6JBAAAAAJ:WF5omc3nYNoC)
 </div>
 </div>
 
