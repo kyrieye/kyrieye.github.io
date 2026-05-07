@@ -29,7 +29,7 @@ My research mainly focuses on **Multimodal Emotion Analysis** and **Multimodal L
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/mm26.jpg' alt="agent" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/mm26.png' alt="agent" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Multi-Agent Framework with Structured Reasoning and Reflective Refinement for Multimodal Empathetic Response Generation](https://arxiv.org/abs/2604.18988)
