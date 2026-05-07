@@ -42,6 +42,19 @@ Under Review, 2026
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/tac26.png' alt="emoverse" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[EmoVerse: A MLLMs-Driven Emotion Representation Dataset for Interpretable Visual Emotion Analysis](https://arxiv.org/abs/2511.12554)
+
+Yijie Guo; Dexiang Hong; Weidong Chen; Zihan She; **Cheng Ye**; Xiaojun Chang; Zhendong Mao
+
+Under Review, 2026
+
+[**Project Page**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ylZ6JBAAAAAJ&citation_for_view=ylZ6JBAAAAAJ:W7OEmFMy1HYC)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/tpami26.png' alt="facenet" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
