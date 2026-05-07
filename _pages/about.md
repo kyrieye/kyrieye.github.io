@@ -34,7 +34,7 @@ My research mainly focuses on **Multimodal Emotion Analysis** and **Multimodal L
 
 [A Multi-Agent Framework with Structured Reasoning and Reflective Refinement for Multimodal Empathetic Response Generation](https://arxiv.org/abs/2604.18988)
 
-Liping Wang; **Cheng Ye**$^{*}$; Weidong Chen; Peipei Song; Bo Hu; Zhendong Mao
+Liping Wang$^{*}$; **Cheng Ye**$^{*}$; Weidong Chen; Peipei Song; Bo Hu; Zhendong Mao
 
 Under Review, 2026
 
