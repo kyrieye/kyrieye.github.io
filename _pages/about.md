@@ -47,7 +47,7 @@ Under Review, 2026
 
 [EmoVerse: A MLLMs-Driven Emotion Representation Dataset for Interpretable Visual Emotion Analysis](https://arxiv.org/abs/2511.12554)
 
-Yijie Guo; Dexiang Hong; Weidong Chen; Zihan She; **Cheng Ye**; Xiaojun Chang; Zhendong Mao
+Yijie Guo; Dexiang Hong; Weidong Chen; Zihan She; **Cheng Ye**; Xiaojun Chang; Zhendong Mao; Yongdong Zhang
 
 Under Review, 2026
 
