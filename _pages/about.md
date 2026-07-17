@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there! My name is Cheng Ye(叶骋), I am currently a second-year Master student in the School of Information Science and Technology at University of Science and Technology of China(USTC), advised by Asso. Prof. **Weidong Chen**. Previously, I received my bachelor degree from the School of Cyberspace Security at University of Science and Technology of China(USTC) in 2024.
+Hi there! My name is Cheng Ye(叶骋), I am currently a second-year PhD. Candidate student in the School of Information Science and Technology at University of Science and Technology of China(USTC), advised by Asso. Prof. **Weidong Chen** and Prof. **Yongdong Zhang**. Previously, I received my bachelor degree from the School of Cyberspace Security at University of Science and Technology of China(USTC) in 2024.
 
 My research mainly focuses on **Multimodal Emotion Analysis** and **Multimodal Large Language Models**.
 
