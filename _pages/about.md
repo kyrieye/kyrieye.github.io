@@ -125,7 +125,7 @@ Proceedings of the 32nd ACM International Conference on Multimedia(ACM MM), 2024
 - *2024.07* USTC Excellent Graduation Project, 2024.
 
 # 📖 Educations
-- *2024.09 - now*, Master Student, School of Information Science and Technology at University of Science and Technology of China.
+- *2024.09 - now*, PhD. Candidate, School of Information Science and Technology at University of Science and Technology of China.
 - *2020.09 - 2024.06*, Bachelor, School of Cyberspace Security, University of Science and Technology of China.
 
 # 💬 Invited Talks
